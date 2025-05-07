@@ -1,15 +1,4 @@
-<group name="system_info">
 Cisco IOS XE Software, Version {{ version }}
-</group>
-
-<group name="system_info">
 System image file is "{{ running_image }}"
-</group>
-
-<group name="system_info">
 Processor board ID {{ serial }}
-</group>
-
-<group name="system_info">
 cisco {{ hardware }} (
-</group>
