@@ -1,0 +1,2 @@
+{{ interface }} is {{ status }}, line protocol is {{ protocol }}
+  MTU {{ mtu }} bytes,
