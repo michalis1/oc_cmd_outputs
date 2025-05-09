@@ -1,3 +1,4 @@
-<block start="{{ interface }} is {{ status }}, line protocol is {{ protocol }}">
+{{ interface }} is {{ status }}, line protocol is {{ protocol }}
+  Hardware is {{model}}, address is {{mac}} (bia {{mac}})
+  Description: {{description}}
   MTU {mtu} bytes
-</block>
