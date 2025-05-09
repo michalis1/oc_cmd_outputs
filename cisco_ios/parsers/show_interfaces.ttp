@@ -1,2 +1,3 @@
-{{ interface }} is {{ status }}, line protocol is {{ protocol }}
+<block start="{{ interface }} is {{ status }}, line protocol is {{ protocol }}">
   MTU {mtu} bytes
+</block>
