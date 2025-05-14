@@ -1,5 +1,5 @@
-Cisco IOS XE Software, Version 17.06.09
-Cisco IOS Software [Bengaluru], ISR Software (ARMV8EL_LINUX_IOSD-UNIVERSALK9-M), Version 17.6.9, RELEASE SOFTWARE (fc2)
+Cisco IOS XE Software, Version 17.06.08
+Cisco IOS Software [Bengaluru], ISR Software (ARMV8EL_LINUX_IOSD-UNIVERSALK9-M), Version 17.6.8, RELEASE SOFTWARE (fc2)
 Technical Support: http://www.cisco.com/techsupport
 Copyright (c) 1986-2023 by Cisco Systems, Inc.
 Compiled Wed 25-Jan-23 15:15 by mcpre
@@ -22,7 +22,7 @@ CSMS-LAB-R1 uptime is 40 weeks, 5 days, 21 hours, 24 minutes
 Uptime for this control processor is 40 weeks, 5 days, 21 hours, 26 minutes
 System returned to ROM by Reload Command at 14:41:17 EEST Tue Jul 23 2024
 System restarted at 14:44:18 EEST Tue Jul 23 2024
-System image file is "bootflash:c1100-universalk9.17.06.09.SPA.bin"
+System image file is "bootflash:c1100-universalk9.17.06.08.SPA.bin"
 Last reload reason: Reload Command
 
 
