@@ -1,0 +1,9 @@
+anon1                  Tacacs  n/a   0.0.0.0    49        n/a       Enabled  0
+anon2                Tacacs  n/a   0.0.0.0    49        n/a       Enabled  0
+anon3                   Tacacs  n/a   0.0.0.0    49        n/a       Enabled  0
+anon4                 Tacacs  n/a   0.0.0.0    49        n/a       Enabled  0
+anon5                  Tacacs  n/a   0.0.0.0    49        n/a       Enabled  0
+anon6                Tacacs  n/a   0.0.0.0    49        n/a       Enabled  0
+TACACS-1                      Tacacs  n/a   0.0.0.0    49        n/a       Enabled  1822
+TACACS-2                      Tacacs  n/a   0.0.0.0    49        n/a       Enabled  7
+TACACS-3                      Tacacs  n/a   0.0.0.0    49        n/a       Enabled  0

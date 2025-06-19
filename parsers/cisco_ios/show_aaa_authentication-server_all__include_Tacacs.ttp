@@ -1,0 +1,5 @@
+<group name="tacacs">
+                <group name="definitions">
+{{profile}}   Tacacs  n/a   {{host | IP }}  49        n/a       {{state}}  {{hits}}
+                </group>
+</group>
