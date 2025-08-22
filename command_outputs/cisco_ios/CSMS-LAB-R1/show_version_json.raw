@@ -1,0 +1,9 @@
+{
+    "image_name": "Bengaluru",
+    "release": "fc2",
+    "running_image": "bootflash:c1100-universalk9.17.06.08.SPA.bin",
+    "serial": "FGL2527LJ3E",
+    "software_image": "(ARMV8EL_LINUX_IOSD-UNIVERSALK9-M)",
+    "uptime_days": 5,
+    "version": "17.6.8"
+}
