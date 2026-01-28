@@ -1,3 +1,10 @@
 {
-    "result":[]
+    "result":[ {
+        "name": "group1",
+        "type": "group"
+    },
+    {
+        "name": "group2",
+        "type": "user"
+    }]
 }
