@@ -4,11 +4,11 @@
     [
     {
         "server": "10.10.10.1",
-        "statum": 16
+        "statum": 2
     },
     {
-        "server": "10.10.10.2",
-        "type": "group"
+        "server": "10.10.10.3",
+        "statum": 16
     }
 ]
     }
