@@ -1,12 +1,15 @@
 {
-    "result": [
+    "ntp": {
+    "hosts":
+    [
     {
-        "name": "group1",
-        "type": "group"
+        "server": "10.10.10.1",
+        "statum": 16
     },
     {
-        "name": "group2",
+        "server": "10.10.10.2",
         "type": "group"
     }
 ]
+    }
 }
