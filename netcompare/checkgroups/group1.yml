@@ -1,0 +1,4 @@
+test_group_1:
+  description: "test_group_1"
+  checks:
+    - test_check_1
