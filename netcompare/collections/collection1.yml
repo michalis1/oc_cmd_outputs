@@ -1,0 +1,4 @@
+---
+test_check_1:
+  check_type: textfsm
+  description: "textfsm-check"
