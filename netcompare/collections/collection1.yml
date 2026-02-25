@@ -1,4 +1,8 @@
 ---
 test_check_1:
-  check_type: textfsm
+  check_type: "EXACT_MATCH"
   description: "textfsm-check"
+  jmespath: "*"
+  collector:
+    name: "textfsm"
+    command: "show test 1"
