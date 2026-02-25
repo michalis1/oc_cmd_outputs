@@ -2,3 +2,10 @@ test_group_1:
   description: "test_group_1"
   checks:
     - test_check_1
+    - test_check_2
+    - test_check_3
+
+test_group_200:
+  description: "test_group_200"
+  checks:
+    - test_check_200

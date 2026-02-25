@@ -2,8 +2,24 @@
 test_check_1:
   check_type: "EXACT_MATCH"
   description: "textfsm-check"
-  jmespath: "*"
+  jmespath: "*.test"
   collector:
     name: "textfsm"
     command: "show test 1"
+    platform: "cisco_ios"
+test_check_2:
+  check_type: "EXACT_MATCH"
+  description: "ttp-check"
+  jmespath: "*.test"
+  collector:
+    name: "ttp"
+    command: "show test 2"
+    platform: "cisco_ios"
+test_check_3:
+  check_type: "EXACT_MATCH"
+  description: "json-check"
+  jmespath: "*.test"
+  collector:
+    name: "json"
+    command: "show test 3"
     platform: "cisco_ios"
