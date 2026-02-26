@@ -3,7 +3,7 @@
         "hosts":
         [
             {
-                "server": "10.10.10.1",
+                "server": "10.10.10.4",
                 "statum": "2",
                 "poll_interval": "1024",
                 "jitter": "+0.000000",
@@ -11,7 +11,7 @@
                 "reach": "377"
             },
             {
-                "server": "10.10.10.6",
+                "server": "10.10.10.1",
                 "statum": "16",
                 "poll_interval": "1024",
                 "jitter": "+0.000003",
