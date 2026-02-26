@@ -3,7 +3,7 @@
         "hosts":
         [
             {
-                "server": "10.10.10.4",
+                "server": "10.10.10.6",
                 "statum": "2",
                 "poll_interval": "1024",
                 "jitter": "+0.000000",
